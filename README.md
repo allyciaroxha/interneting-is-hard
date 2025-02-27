@@ -1,6 +1,6 @@
-# HTML and CSS - [Interneting Is Hard](https://www.internetingishard.com)
+# HTML and CSS - [Interneting Is Hard](https://internetingishard.netlify.app)
 
-This repository contains projects I developed while taking the **[Interneting Is Hard](https://www.internetingishard.com)** course. I used this course not only to solidify my **Web Development** skills but also to improve my **English proficiency**. Each project was a step forward in understanding key concepts, from the basics to more advanced techniques.
+This repository contains projects I developed while taking the **[Interneting Is Hard](https://internetingishard.netlify.app)** course. I used this course not only to solidify my **Web Development** skills but also to improve my **English proficiency**. Each project was a step forward in understanding key concepts, from the basics to more advanced techniques.
 
 ## Topics Covered
 The projects cover the following topics:
@@ -19,4 +19,4 @@ The projects cover the following topics:
 - **Web Typography**: Best practices for using fonts and text hierarchy.
 
 ### About the Course
-The **[Interneting Is Hard](https://www.internetingishard.com)** course is an incredible resource for learning HTML and CSS in a clear and practical way. It's entirely in English, which made it a perfect tool for me to improve both my technical skills and my English proficiency. I highly recommend it to anyone starting out in web development or looking to strengthen their foundational knowledge.
+The **[Interneting Is Hard](https://internetingishard.netlify.app)** course is an incredible resource for learning HTML and CSS in a clear and practical way. It's entirely in English, which made it a perfect tool for me to improve both my technical skills and my English proficiency. I highly recommend it to anyone starting out in web development or looking to strengthen their foundational knowledge.
