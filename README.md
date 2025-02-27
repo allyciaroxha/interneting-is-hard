@@ -1,4 +1,4 @@
-# HTML and CSS Projects - [Interneting Is Hard](https://www.internetingishard.com)
+# HTML and CSS - [Interneting Is Hard](https://www.internetingishard.com)
 
 This repository contains projects I developed while taking the **[Interneting Is Hard](https://www.internetingishard.com)** course. I used this course not only to solidify my **Web Development** skills but also to improve my **English proficiency**. Each project was a step forward in understanding key concepts, from the basics to more advanced techniques.
 
